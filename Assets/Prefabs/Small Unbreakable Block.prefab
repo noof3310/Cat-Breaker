@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8107365493745793941
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8502542158459874765, guid: 3150ac5a2b62ef345865e2880582a55b,
+        type: 3}
+      propertyPath: hitSprites.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597087417688940341, guid: 3150ac5a2b62ef345865e2880582a55b,
+        type: 3}
+      propertyPath: m_Name
+      value: Small Unbreakable Block
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597087417688940341, guid: 3150ac5a2b62ef345865e2880582a55b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597087417688940341, guid: 3150ac5a2b62ef345865e2880582a55b,
+        type: 3}
+      propertyPath: m_TagString
+      value: Unbreakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597087417688940346, guid: 3150ac5a2b62ef345865e2880582a55b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597087417688940346, guid: 3150ac5a2b62ef345865e2880582a55b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597087417688940346, guid: 3150ac5a2b62ef345865e2880582a55b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597087417688940346, guid: 3150ac5a2b62ef345865e2880582a55b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597087417688940347, guid: 3150ac5a2b62ef345865e2880582a55b,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.17577432
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597087417688940347, guid: 3150ac5a2b62ef345865e2880582a55b,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.19609477
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597087417688940347, guid: 3150ac5a2b62ef345865e2880582a55b,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.745283
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3150ac5a2b62ef345865e2880582a55b, type: 3}
